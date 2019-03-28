@@ -24,7 +24,6 @@ namespace GuessTheNumber
                 else
                     Console.WriteLine("Try again!");
             }
-            Console.Read();
         }
     }
 }
